@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDrinkClass", "HotDrinkClass\HotDrinkClass.csproj", "{17254EEA-F4D2-412D-BF51-796C188FF6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17254EEA-F4D2-412D-BF51-796C188FF6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17254EEA-F4D2-412D-BF51-796C188FF6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17254EEA-F4D2-412D-BF51-796C188FF6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17254EEA-F4D2-412D-BF51-796C188FF6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940B4A47-6E4A-4F1D-BD4D-45E77C10C989}
+	EndGlobalSection
+EndGlobal
